@@ -13,23 +13,26 @@ import global_jap from "./language/jap/global.json";
 import i18next from "i18next";
 import { I18nextProvider } from "react-i18next";
 
+// Initialize i18next with language resources
 i18next.init({
   interpolation: { escapeValue: false },
-  lng: "en",
+  lng: "en", // Default language
   resources: {
-    en: { global: global_en },
-    hi: { global: global_hi },
-    es: { global: global_es },
-    chi: { global: global_chi },
-    jap: { global: global_jap },
+    en: { global: global_en }, // English language resources
+    hi: { global: global_hi }, // Hindi language resources
+    es: { global: global_es }, // Spanish language resources
+    chi: { global: global_chi }, // Chinese language resources
+    jap: { global: global_jap }, // Japanese language resources
   },
 });
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
+    {/* Wrap the entire app with the i18n provider */}
     <I18nextProvider i18n={i18next}>
       <Router>
+        {/* Render the App component within a Router */}
         <App />
       </Router>
     </I18nextProvider>
