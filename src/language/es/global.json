@@ -1,0 +1,53 @@
+{
+    "header": {
+      "logo": "Bienes Raíces Olecons",
+      "nav": {
+        "home": "Inicio",
+        "about": "Acerca de"
+      }
+    },
+    "footer": {
+      "message": "Creado por",
+      "name": "Chandrakant Kushwah"
+    },
+    "home": {
+      "main-heading": "Ahora hay una manera más fácil de crecer",
+      "sub-heading": "Profesionales de Hipotecas y Bienes Raíces:",
+      "para": "Haga crecer su negocio con LeadPops, la única solución de marketing digital de servicio completo construida específicamente para profesionales de hipotecas y bienes raíces como usted.",
+      "span": "Vea cómo funciona para",
+      "button": {
+        "mortgage": "Hipotecas",
+        "real-estate": "Bienes Raíces"
+      }
+    },
+    "about": {
+      "main-heading": "Bienes Raíces Olecons",
+      "sub-heading": "Su Socio en el Éxito de las Hipotecas y Bienes Raíces",
+      "para": "Descubra LeadPops, nuestra solución especializada de marketing digital, diseñada para profesionales de hipotecas y bienes raíces. Con una calificación de 5/5 de más de 500 clientes, estamos comprometidos en ayudarlo a crecer.",
+      "why": "¿Por qué Elegirnos?",
+      "features": {
+        "tailored": {
+          "heading": "Solución a Medida",
+          "span": "Diseñada para las necesidades únicas de su industria."
+        },
+        "streamlined": {
+          "heading": "Crecimiento Simplificado",
+          "span": "Le ayudamos a expandirse y generar leads."
+        },
+        "proven": {
+          "heading": "Excelencia Comprobada",
+          "span": "Más de 500 opiniones respaldan nuestro éxito."
+        },
+        "industry": {
+          "heading": "Experiencia en la Industria",
+          "span": "Nuestro equipo conoce a fondo las hipotecas y bienes raíces."
+        }
+      },
+      "span": "Aprenda cómo LeadPops puede transformar su negocio: Contáctenos hoy mismo."
+    },
+    "rating-card": {
+      "from": "de",
+      "reviews": "opiniones"
+    }
+  }
+  

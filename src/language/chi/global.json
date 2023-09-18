@@ -1,0 +1,53 @@
+{
+    "header": {
+      "logo": "Olecons房地产",
+      "nav": {
+        "home": "首页",
+        "about": "关于我们"
+      }
+    },
+    "footer": {
+      "message": "创建者",
+      "name": "钱德拉坎特·库什瓦"
+    },
+    "home": {
+      "main-heading": "现在有更简单的增长方式",
+      "sub-heading": "抵押贷款和房地产专业人士：",
+      "para": "通过LeadPops，您可以增长您的业务，这是唯一专门为抵押贷款和房地产专业人士构建的全方位数字营销解决方案。",
+      "span": "了解它是如何工作的",
+      "button": {
+        "mortgage": "抵押贷款",
+        "real-estate": "房地产"
+      }
+    },
+    "about": {
+      "main-heading": "Olecons房地产",
+      "sub-heading": "您在抵押贷款和房地产成功中的合作伙伴",
+      "para": "了解LeadPops，我们专门为抵押贷款和房地产专业人士量身定制的数字营销解决方案。来自500多名客户的5/5评分，我们致力于帮助您增长。",
+      "why": "为什么选择我们",
+      "features": {
+        "tailored": {
+          "heading": "定制解决方案",
+          "span": "为您行业的独特需求而设计。"
+        },
+        "streamlined": {
+          "heading": "简化增长",
+          "span": "我们帮助您扩展业务并生成潜在客户。"
+        },
+        "proven": {
+          "heading": "卓越成就",
+          "span": "500多条评论证明了我们的成功。"
+        },
+        "industry": {
+          "heading": "行业专业知识",
+          "span": "我们的团队深谙抵押贷款和房地产。"
+        }
+      },
+      "span": "了解LeadPops如何改变您的业务 - 今天就与我们联系。"
+    },
+    "rating-card": {
+      "from": "来自",
+      "reviews": "评论"
+    }
+  }
+  

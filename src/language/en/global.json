@@ -1,0 +1,52 @@
+{
+  "header": {
+    "logo": "Olecons Real Estate",
+    "nav": {
+      "home": "Home",
+      "about": "About"
+    }
+  },
+  "footer": {
+    "message": "Created By",
+    "name": "Chandrakant Kushwah"
+  },    
+  "home": {
+    "main-heading": "Now there's an easier way to grow",
+    "sub-heading": "Mortgage & Real Estate professionals:",
+    "para": "Grow your buisness with LeadPops, the only full-service digital marketing solution built specifically for Mortgage and real estate professionals like you.",
+    "span": "See how it works for",
+    "button": {
+      "mortgage": "Mortgage",
+      "real-estate": "Real Estate"
+    }
+  },
+  "about": {
+    "main-heading": "Olecons Real Estate",
+    "sub-heading": "Your Partner in Mortgage and Real Estate Success",
+    "para": "Discover LeadPops, our specialized digital marketing solution, tailored for Mortgage and Real Estate professionals. With a 5/5 rating from over 500 clients, we're committed to helping you grow.",
+    "why": "Why Choose Us",
+    "features": {
+      "tailored": {
+        "heading": "Tailored Solution",
+        "span": "Designed for your industry's unique needs."
+      },
+      "streamlined": {
+        "heading": "Streamlined Growth",
+        "span": "We help you expand and generate leads."
+      },
+      "proven": {
+        "heading": "Proven Excellence",
+        "span": "500+ reviews vouch for our success."
+      },
+      "industry": {
+        "heading": "Industry Expertise",
+        "span": "Our team knows Mortgage and Real Estate inside out."
+      }
+    },
+    "span": "Learn how LeadPops can transform your business – Contact us today."
+  },
+  "rating-card": {
+    "from": "from",
+    "reviews": "reviews"
+  }
+}
